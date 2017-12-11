@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 11,2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kyla Murphy)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Weather Channel: This lesson uses an API, Ajax, and
+JSON-formatted data to build a weather application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/knm16f/optional_weatherchannel.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how the back end of a website functions.)
+2. (This weather website is run by functions in JSON.)
+3. (It is easy to mess up a code when you type something that is not case sensitive .)
